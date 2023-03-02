@@ -1,4 +1,4 @@
-# testProject
+# My plants
 
-this is my first site
+My first project
 
